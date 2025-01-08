@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pragyanshu-kashyap/TextUtils-Deploy.git/static/css/main.d1611e9d.css",
-    "main.js": "/pragyanshu-kashyap/TextUtils-Deploy.git/static/js/main.985d7b46.js",
-    "static/js/453.77995bdc.chunk.js": "/pragyanshu-kashyap/TextUtils-Deploy.git/static/js/453.77995bdc.chunk.js",
-    "index.html": "/pragyanshu-kashyap/TextUtils-Deploy.git/index.html",
-    "main.d1611e9d.css.map": "/pragyanshu-kashyap/TextUtils-Deploy.git/static/css/main.d1611e9d.css.map",
-    "main.985d7b46.js.map": "/pragyanshu-kashyap/TextUtils-Deploy.git/static/js/main.985d7b46.js.map",
-    "453.77995bdc.chunk.js.map": "/pragyanshu-kashyap/TextUtils-Deploy.git/static/js/453.77995bdc.chunk.js.map"
+    "main.css": "/TextUtils-Deploy/static/css/main.d1611e9d.css",
+    "main.js": "/TextUtils-Deploy/static/js/main.aad19c7f.js",
+    "static/js/453.77995bdc.chunk.js": "/TextUtils-Deploy/static/js/453.77995bdc.chunk.js",
+    "index.html": "/TextUtils-Deploy/index.html",
+    "main.d1611e9d.css.map": "/TextUtils-Deploy/static/css/main.d1611e9d.css.map",
+    "main.aad19c7f.js.map": "/TextUtils-Deploy/static/js/main.aad19c7f.js.map",
+    "453.77995bdc.chunk.js.map": "/TextUtils-Deploy/static/js/453.77995bdc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1611e9d.css",
-    "static/js/main.985d7b46.js"
+    "static/js/main.aad19c7f.js"
   ]
 }
